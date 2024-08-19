@@ -1,0 +1,1 @@
+This repository contains a collection of generative learning models developed as part of my research and experimentation in the field of machine learning. These models leverage various techniques in deep learning to generate new data, such as images, text, or other forms of structured/unstructured data, based on the training data provided.
